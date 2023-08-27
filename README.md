@@ -53,7 +53,10 @@
 <br/>
 
 <div align="center">
+
+
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewylies&layout=compact)
+![andrewylies's GitHub stats](https://github-stats-box-andrewylies.vercel.app/api?username=andrewylies&show_icons=true&theme=radical)
+
 
 </div>
