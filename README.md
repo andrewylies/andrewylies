@@ -8,7 +8,7 @@
 <br/>
 <div>
 
-## Tech Stack
+# Tech Stack
 
 
 ### 📚 Frameworks, Platforms and Libraries
