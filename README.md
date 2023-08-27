@@ -16,7 +16,7 @@
 # Tech Stack
 
 
-### 📚 Frameworks, Platforms, Hosting and Libraries
+### 📚 Frameworks, Platforms, and Libraries
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
