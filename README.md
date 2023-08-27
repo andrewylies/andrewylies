@@ -54,9 +54,6 @@
 
 <div align="center">
 
-
-  
-![andrewylies's GitHub stats](https://github-stats-box-andrewylies.vercel.app/api?username=andrewylies&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats-andrewylies.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
