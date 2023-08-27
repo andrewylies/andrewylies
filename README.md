@@ -54,6 +54,6 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats-andrewylies.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-andrewylies.vercel.app/api/top-langs/?username=andrewylies)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
