@@ -3,7 +3,7 @@
 
 <table>
 <tr>
-<td valign="top" width="40%">
+<td valign="top" width="35%">
 
 ![giphy](https://github.com/andrewylies/andrewylies/assets/103019336/51302329-89b3-4447-a252-2fb162bef14f)
 
