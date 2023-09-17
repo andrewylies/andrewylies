@@ -5,7 +5,7 @@
 <td valign="top" width="35%">
 
 ![giphy](https://github.com/andrewylies/andrewylies/assets/103019336/51302329-89b3-4447-a252-2fb162bef14f)
-> ### To infinity and beyond 🚀
+<br/>
 [![Top Langs](https://github-readme-stats-andrewylies.vercel.app/api/top-langs/?username=andrewylies)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
