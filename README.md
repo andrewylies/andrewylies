@@ -1,4 +1,4 @@
-![github-header-image (6)](https://github.com/andrewylies/andrewylies/assets/103019336/4e9d3c4c-e48a-4da6-99ca-98dc3030837a)
+![github-header-image (6)](https://i.imgur.com/5DEr3gc.png)
 
 <table>
 <tr>
