@@ -1,4 +1,4 @@
-![github-header-image (6)](https://i.imgur.com/5DEr3gc.png)
+![github-header-image (6)](https://i.imgur.com/gLbsTKn.png)
 
 <table>
 <tr>
