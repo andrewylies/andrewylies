@@ -1,5 +1,3 @@
-![github-header-image (6)](https://i.imgur.com/gLbsTKn.png)
-
 <table>
 <tr>
 <td valign="top" width="35%">
