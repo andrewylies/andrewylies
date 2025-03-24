@@ -4,7 +4,7 @@
 
 ![giphy](https://github.com/andrewylies/andrewylies/assets/103019336/51302329-89b3-4447-a252-2fb162bef14f)
 <br/>
-[![Top Langs](https://github-readme-stats-andrewylies.vercel.app/api/top-langs/?username=andrewylies)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewylies)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 <td valign="top">
