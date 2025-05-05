@@ -74,5 +74,5 @@
 </tr>
 </table>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=220)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=220&color=timeGradient)
 
