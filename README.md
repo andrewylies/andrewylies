@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&fontSize=60&fontAlignY=35&descAlign=57&descAlignY=53&text=Hello+%F0%9F%91%8B+%2C+I%E2%80%99m+Andrew+&desc=—+coding+with+purpose%2C+designing+with+empathy)
 
 <table>
 <tr>
@@ -74,5 +74,5 @@
 </tr>
 </table>
 
-
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=220)
 
