@@ -22,4 +22,3 @@ I contributed to core frontend areas including authentication flows, responsive 
 - [**A.N.D Award 2025 Silver**](https://www.naward.or.kr/winners/2025#:~:text=SOAK) — SOAK
 - [**iF Design Award 2023**](https://ifdesign.com/en/winner-ranking/project/sopsyetyio/582342) — soPSYety
 
----
