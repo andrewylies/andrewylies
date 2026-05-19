@@ -23,9 +23,3 @@ I contributed to core frontend areas including authentication flows, responsive 
 - [**iF Design Award 2023**](https://ifdesign.com/en/winner-ranking/project/sopsyetyio/582342) — soPSYety
 
 ---
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/andrewylies/">
-    <img src="https://img.shields.io/badge/LinkedIn-andrewylies-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
