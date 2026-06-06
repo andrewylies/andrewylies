@@ -7,15 +7,6 @@ I work on production UI with attention to interaction design, responsive layouts
 
 ---
 
-### Featured Work
-
-#### [SOAK — Deep Dive into Science](https://soak.so/ko/main)
-
-SOAK is a science content platform designed to make scientific knowledge easier to explore through visual and interactive experiences.
-I contributed to core frontend areas including authentication flows, responsive layouts, content viewing, reusable UI components, and modal systems.
-
----
-
 ### Recognition
 
 - [**iF Design Award 2026**](https://ifdesign.com/en/winner-ranking/project/soak-deep-dive-into-science/759311) — SOAK
