@@ -15,4 +15,4 @@ I work on production UI with attention to interaction design, responsive layouts
 
 ---
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/andrewylies/svg?view=3d&template=graph&tokens=compact&cost=compact)](https://tokscale.ai/u/andrewylies)
+<a href="https://tokscale.ai/u/andrewylies"><img style="width:100%" alt="Tokscale Stats for @andrewylies" src="https://tokscale.ai/api/embed/andrewylies/svg?view=3d&sort=cost&template=graph&tokens=compact&cost=compact" /></a>
