@@ -13,3 +13,6 @@ I work on production UI with attention to interaction design, responsive layouts
 - [**A.N.D Award 2025 Silver**](https://www.naward.or.kr/winners/2025#:~:text=SOAK) — SOAK
 - [**iF Design Award 2023**](https://ifdesign.com/en/winner-ranking/project/sopsyetyio/582342) — soPSYety
 
+---
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/andrewylies/svg?view=3d&template=graph&tokens=compact&cost=compact)](https://tokscale.ai/u/andrewylies)
