@@ -1,10 +1,3 @@
-### About
-
-I'm a frontend developer focused on building clear, usable, and maintainable web interfaces.
-I work on production UI with attention to interaction design, responsive layouts, reusable components, and smooth user flows. I primarily use [opencode](https://github.com/sst/opencode) for AI-assisted development, including research, prototyping, implementation support, refactoring, and documentation.
-
----
-
 ### Recognition
 
 - [**iF Design Award 2026**](https://ifdesign.com/en/winner-ranking/project/soak-deep-dive-into-science/759311) — SOAK
