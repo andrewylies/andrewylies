@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=170&fontSize=48&fontAlignY=35&text=Andrew&desc=Frontend+Developer+%C2%B7+UI+Engineering+%C2%B7+AI-assisted+Workflow&descSize=18&descAlignY=55)
-
 ### About
 
 I'm a frontend developer focused on building clear, usable, and maintainable web interfaces.
